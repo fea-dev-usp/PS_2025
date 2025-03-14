@@ -37,7 +37,7 @@ Cada um dos cases apresenta uma temática inspirada em um desenho animado e tamb
 
 <center>
 
-  | [Case Sem Programação](https://github.com/LorenzoC5/PS_2025/blob/main/Case%20Logica%20Dev(2).ipynb) | [Case Básico](https://github.com/LorenzoC5/PS_2025/blob/main/Case%20B%C3%A1sico.ipynb) | [Case Avançado](https://github.com/LorenzoC5/PS_2025/blob/main/Exerc%C3%ADcio%20PS%20resolvido.ipynb) |
+  | [Case Sem Programação](https://github.com/LorenzoC5/PS_2025/blob/main/Case%20Sem-Programa%C3%A7%C3%A3o.ipynb) | [Case Básico](https://github.com/LorenzoC5/PS_2025/blob/main/Case%20B%C3%A1sico.ipynb) | [Case Avançado](https://github.com/LorenzoC5/PS_2025/blob/main/Case%20Avan%C3%A7ado.ipynb) |
 |-----------------------|-------------|---------------|
 | <img src="" width="250" e height="350"> | <img src="https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/c48d7eb0-dff4-4007-82a5-15d4c777df49" width="250" e height="350"> | <img src="https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/e630c5b7-ae2a-4c7d-aedb-7d381ea4d737" width="250" e height="350"> |
 
