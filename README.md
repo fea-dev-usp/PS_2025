@@ -70,7 +70,7 @@ No caso dos cases de programação, os seguintes pontos são importantes também
 3. Possuir variáveis. Não colocar só os números diretamente na fórmula.
 
 ### Exemplo
-A entidade FEA.dev possui cinco diretorias: Projetos, RH, Marketing, Comunicação Externa e Tesouraria. Nosso atual presidente, Arthur Lopes, ao ver que os membros estão muito engajados na entidade, decide retribuir comprando 1 camiseta personalizada do FEA.dev para cada pessoa envolvida. Ele verifica que são 13 integrantes de Projetos, 7 de RH, 9 de Marketing, 2 de Comunicação Externa e 1 em Tesouraria. Faça um código cujo output seja a quantidade total de camisetas que o nosso presidente precisará comprar.
+A entidade FEA.dev possui cinco diretorias: Operações, RH, Marketing, Governança e Tecnologia. Nosso atual presidente, Gabriel Braz, ao ver que os membros estão muito engajados na entidade, decide retribuir comprando 1 camiseta personalizada do FEA.dev para cada pessoa envolvida. Ele verifica que são 13 integrantes de Operações, 7 de RH, 9 de Marketing, 2 de Governança e 1 em Tecnologia. Faça um código cujo output seja a quantidade total de camisetas que o nosso presidente precisará comprar.
 
 ```bash
 ##### SEU CODIGO COMECA AQUI #####
@@ -87,8 +87,8 @@ O código acima, apesar de gerar o output correto, é inelegível para alguém q
 ```bash
 ##### SEU CODIGO COMECA AQUI #####
 
-# Quantidade de membros em Projetos
-projetos = 13
+# Quantidade de membros em Operacoes
+operacoes = 13
 
 # Quantidade de membros em RH
 rh = 9
@@ -96,31 +96,30 @@ rh = 9
 # Quantidade de membros em Marketing
 marketing = 7
 
-# Quantidade de membros em Comunex
-comunex = 2
+# Quantidade de membros em Governanca
+governanca = 2
 
-# Quantidade de membros em Tesouraria
-tesouraria = 1
+# Quantidade de membros em Tecnologia
+tecnologia = 1
 
 # Quantidade total 
-total = projetos + rh + marketing + comunex + tesouraria
+total = operacoes + rh + marketing + governanca + tecnologia
 
 # Resposta
-print(f'Arthur Lopes precisará comprar {total} camisetas para a entidade.')
+print(f'Gabriel Braz precisará comprar {total} camisetas para a entidade.')
 ``` 
 
 Output
 ```bash
-Arthur Lopes precisará comprar 32 camisetas para a entidade.
+Gabriel Braz precisará comprar 32 camisetas para a entidade.
 ```  
 
 ## Sobre o envio do arquivo
-🚨 Após resolver o case selecionado, envie-o para nós pelo formulário que recebeu por e-mail até o dia 31/03 (domingo). O arquivo enviado deve estar no formato .ipynb e nomeado com o seu número USP (por exemplo, ```12345678.ipynb```), estando sujeito a desclassificação caso não siga essa instrução.
+🚨 Após resolver o case selecionado, envie-o para nós pelo formulário que recebeu por e-mail até o dia 22/03 (domingo). O arquivo enviado deve estar no formato .ipynb e nomeado com o seu número USP (por exemplo, ```12345678.ipynb```), estando sujeito a desclassificação caso não siga essa instrução.
 
 ## O que esperamos de você
 🤔 Honestidade e dedicação.
 
-Não deixe para última hora. Sabemos que você irá consultar a internet (inclusive deve), porém, não seja ingênuo(a) de copiar as respostas diretamente, ou ainda de utilizar algum software de IA para obter as respostas finais, como o ChatGPT. Certamente será penalizado.
 
 ---
 
