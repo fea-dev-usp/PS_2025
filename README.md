@@ -39,7 +39,7 @@ Cada um dos cases apresenta uma temática inspirada em um desenho animado e tamb
 
   | [Case Sem Programação](https://github.com/LorenzoC5/PS_2025/blob/main/Case%20Logica%20Dev(2).ipynb) | [Case Básico](https://github.com/LorenzoC5/PS_2025/blob/main/Case%20B%C3%A1sico.ipynb) | [Case Avançado](https://github.com/LorenzoC5/PS_2025/blob/main/Exerc%C3%ADcio%20PS%20resolvido.ipynb) |
 |-----------------------|-------------|---------------|
-| <img src="![MV5BMTc1NjcxNzg4MF5BMl5BanBnXkFtZTgwOTMzNzgyMDE@ _V1_FMjpg_UX1000_](https://github.com/user-attachments/assets/7588965d-78d6-4ced-af43-ed0f5eb6a975)" width="250" e height="350"> | <img src="https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/c48d7eb0-dff4-4007-82a5-15d4c777df49" width="250" e height="350"> | <img src="https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/e630c5b7-ae2a-4c7d-aedb-7d381ea4d737" width="250" e height="350"> |
+| <img src="" width="250" e height="350"> | <img src="https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/c48d7eb0-dff4-4007-82a5-15d4c777df49" width="250" e height="350"> | <img src="https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/e630c5b7-ae2a-4c7d-aedb-7d381ea4d737" width="250" e height="350"> |
 
 </center>
 
