@@ -37,7 +37,7 @@ Cada um dos cases apresenta uma temática inspirada em um desenho animado e tamb
 
 <center>
 
-  | [Case Sem Programação](https://github.com/fea-dev-usp/Segunda_Fase_PS_2024/blob/main/Case%20sem%20Programação.ipynb) | [Case Básico](https://github.com/fea-dev-usp/Segunda_Fase_PS_2024/blob/main/Case%20Básico.ipynb) | [Case Avançado](https://github.com/fea-dev-usp/Segunda_Fase_PS_2024/tree/main/Case%20Avançado) |
+  | [Case Sem Programação](https://github.com/LorenzoC5/PS_2025/blob/main/Case%20Logica%20Dev(2).ipynb) | [Case Básico](https://github.com/LorenzoC5/PS_2025/blob/main/Case%20B%C3%A1sico.ipynb) | [Case Avançado](https://github.com/LorenzoC5/PS_2025/blob/main/Exerc%C3%ADcio%20PS%20resolvido.ipynb) |
 |-----------------------|-------------|---------------|
 | <img src="https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/b8f11136-064f-452d-99d3-25d7785bfc17" width="250" e height="350"> | <img src="https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/c48d7eb0-dff4-4007-82a5-15d4c777df49" width="250" e height="350"> | <img src="https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/e630c5b7-ae2a-4c7d-aedb-7d381ea4d737" width="250" e height="350"> |
 
