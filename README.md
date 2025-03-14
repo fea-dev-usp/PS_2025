@@ -9,11 +9,11 @@
 
 </div>
 
-# Segunda Fase do Processo Seletivo
+# Primeira Fase do Processo Seletivo
 
 Fala, devs, blz? 📢✨
 
-Primeiramente, gostaríamos de parabenizá-lo(a) por ter sido aprovado(a) para a segunda fase do atual processo seletivo do FEA.dev! Como você já deve saber, mais do que uma entidade estudantil da USP que busca unir o universo da programação com o mundo dos negócios, nós somos guiados pelo lema "Aprender para ensinar e ensinar para aprender". Por isso, buscamos membros engajados e curiosos, que busquem constantemente desenvolver o seu raciocínio lógico, solucionando problemas e desafios.
+Primeiramente, gostaríamos de agradecê-lo(a) por ter se increvido para a FEA.dev! Como você já deve saber, mais do que uma entidade estudantil da USP que busca unir o universo da programação com o mundo dos negócios, nós somos guiados pelo lema "Aprender para ensinar e ensinar para aprender". Por isso, buscamos membros engajados e curiosos, que busquem constantemente desenvolver o seu raciocínio lógico, solucionando problemas e desafios.
 
 <details> 
   <summary><b>Lista de conteúdo 🟡⚫</b></summary>
@@ -28,7 +28,7 @@ Primeiramente, gostaríamos de parabenizá-lo(a) por ter sido aprovado(a) para a
 ---
 
 ## Sobre os cases
-👩‍💻👨‍💻 Nesta segunda etapa do nosso processo seletivo, você irá selecionar e resolver um dos seguintes cases:
+👩‍💻👨‍💻 Nesta etapa do nosso processo seletivo, você irá selecionar e resolver um dos seguintes cases:
 * ```Case Sem Programação``` - voltado para quem ainda não sabe programação, sendo composto por questões de raciocínio lógico e construção de fluxogramas;
 * ```Case Básico de Programação em Python``` - voltado para quem já tem um conhecimento básico de programação (como atribuição e estrutura de variáveis, condicionais, loops e criação de funções);
 * ```Case Avançado de Programação em Python``` - voltado para quem concluiu o nosso [curso de Python](https://app.sapium.com.br/course/10359-fea-dev-usp-python-do-basico-ao-intermediario/about) ou já tem um conhecimento intermediário ou avançado na linguagem (como numpy, pandas e visualização de dados).
