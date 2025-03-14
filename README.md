@@ -123,4 +123,4 @@ Gabriel Braz precisará comprar 32 camisetas para a entidade.
 
 ---
 
-### No mais, desejamos boa sorte e esperamos você na terceira fase do nosso processo seletivo! 🚀
+### No mais, desejamos boa sorte e esperamos você na próxima fase do nosso processo seletivo! 🚀
