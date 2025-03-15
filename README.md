@@ -1,4 +1,4 @@
-![Cabeçalho](https://github.com/fea-dev-usp/Segunda_Fase_PS_2024/assets/122839919/ac63dc35-8b0e-4068-af93-8e6adb68acac)
+![Cabeçalho](/assets/imgs/ps25.png)
 
 <div align="center">
  
@@ -18,11 +18,14 @@ Primeiramente, gostaríamos de agradecê-lo(a) por ter se increvido para a FEA.d
 <details> 
   <summary><b>Lista de conteúdo 🟡⚫</b></summary>
   
+- [Primeira Fase do Processo Seletivo](#primeira-fase-do-processo-seletivo)
   - [Sobre os cases](#sobre-os-cases)
   - [Tutoriais sobre GitHub e Jupyter Notebook](#tutoriais-sobre-github-e-jupyter-notebook)
   - [Como responder as questões](#como-responder-as-questões)
+    - [Exemplo](#exemplo)
   - [Sobre o envio do arquivo](#sobre-o-envio-do-arquivo)
   - [O que esperamos de você](#o-que-esperamos-de-você)
+    - [No mais, desejamos boa sorte e esperamos você na próxima fase do nosso processo seletivo! 🚀](#no-mais-desejamos-boa-sorte-e-esperamos-você-na-próxima-fase-do-nosso-processo-seletivo-)
 </details>
 
 ---
@@ -36,11 +39,18 @@ Primeiramente, gostaríamos de agradecê-lo(a) por ter se increvido para a FEA.d
 Cada um dos cases apresenta uma temática inspirada em um desenho animado e também pode ser acessado pelos links abaixo.
 
 <center>
-
-  | [Case Sem Programação](https://github.com/LorenzoC5/PS_2025/blob/main/Case%20Sem-Programa%C3%A7%C3%A3o.ipynb) | [Case Básico](https://github.com/LorenzoC5/PS_2025/blob/main/Case%20B%C3%A1sico.ipynb) | [Case Avançado](https://github.com/LorenzoC5/PS_2025/blob/main/Case%20Avan%C3%A7ado.ipynb) |
-|-----------------------|-------------|---------------|
-| <img src="" width="250" e height="350"> | <img src="https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/c48d7eb0-dff4-4007-82a5-15d4c777df49" width="250" e height="350"> | <img src="https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/e630c5b7-ae2a-4c7d-aedb-7d381ea4d737" width="250" e height="350"> |
-
+  <table>
+    <tr>
+      <th><a href="https://github.com/LorenzoC5/PS_2025/blob/main/Case%20Sem-Programa%C3%A7%C3%A3o.ipynb">Case Sem Programação</a></th>
+      <th><a href="https://github.com/LorenzoC5/PS_2025/blob/main/Case%20B%C3%A1sico.ipynb">Case Básico</a></th>
+      <th><a href="https://github.com/LorenzoC5/PS_2025/blob/main/Case%20Avan%C3%A7ado.ipynb">Case Avançado</a></th>
+    </tr>
+    <tr>
+      <td><img src="assets/imgs/phineas_and_ferb.jpg" width="250" height="350"></td>
+      <td><img src="https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/c48d7eb0-dff4-4007-82a5-15d4c777df49" width="250" height="350"></td>
+      <td><img src="assets/imgs/zootopia.jpg" width="250" height="350"></td>
+    </tr>
+  </table>
 </center>
 
 ---
