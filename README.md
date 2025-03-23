@@ -125,7 +125,7 @@ Gabriel Braz precisará comprar 32 camisetas para a entidade.
 ```  
 
 ## Sobre o envio do arquivo
-🚨 Após resolver o case selecionado, envie-o para nós pelo formulário que recebeu por e-mail até o dia 22/03 (domingo). O arquivo enviado deve estar no formato .ipynb e nomeado com o seu número USP (por exemplo, ```12345678.ipynb```), estando sujeito a desclassificação caso não siga essa instrução.
+🚨 Após resolver o case selecionado, envie-o para nós pelo formulário que recebeu por e-mail até o dia 22/03 (sábado). O arquivo enviado deve estar no formato .ipynb e nomeado com o seu número USP (por exemplo, ```12345678.ipynb```), estando sujeito a desclassificação caso não siga essa instrução.
 
 ## O que esperamos de você
 🤔 Honestidade e dedicação.
